@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://drive.google.com/file/d/1rLsKu4uADtIYU90fXRMVaDvfw5MQXkZN/view?usp=sharing" width="250" />
+	<img src="https://drive.google.com/file/d/1rLsKu4uADtIYU90fXRMVaDvfw5MQXkZN/view?usp=sharing" style="width:250px;height:250px;" />
 	<h3 align="center">CHeAT</h3>
 	<p align="center">
 		CHeAT is an Android application that utilizes artificial intelligence to recommend food recipes by inputting food ingredients available at home, which makes this application easier for users because this application is chat-based.
