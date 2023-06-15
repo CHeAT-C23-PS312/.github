@@ -66,13 +66,11 @@ The CHeAT application follows a client-server architecture.The client-side, whic
  
 
 ### Cloud Computing/Backend
-- **Cloud Run**: Cloud Run is a serverless compute platform provided by Google Cloud. It allows you to run stateless containers in a fully managed environment, providing scalability and ease of deployment.
-- **Firestore**: Firestore is a flexible, scalable, and fully managed NoSQL document database provided by Google Cloud. It enables real-time synchronization and offline support for data storage.
-- **Cloud Storage**: Cloud Storage is a scalable and secure object storage service provided by Google Cloud. It allows you to store and retrieve large amounts of data, including images and other files.
+- **Axios**: Axios is a  JavaScript library that allows you to make HTTP requests from both the browser and Node.js. It provides an easy-to-use and consistent API for performing asynchronous operations and handling responses.
+- **Bcrypt**: bcrypt is a password-hashing function/library commonly used in software development for securely storing and verifying passwords. It is designed to be slow and computationally expensive, which makes it resistant to brute-force attacks.
+- **MySQL**: MySQL is an open-source relational database management system (RDBMS) that uses Structured Query Language (SQL) for managing and manipulating databases. It is one of the most popular and widely used databases in the world.
 - **App Engine**: App Engine is a fully managed serverless platform provided by Google Cloud. It enables you to build and deploy applications without managing infrastructure, providing auto-scaling and high availability.
-- **Cloud Functions**: Cloud Functions is a serverless compute platform provided by Google Cloud. It allows you to write and deploy lightweight, event-driven functions that respond to cloud events and execute custom logic.
-- **GoLang**: GoLang is a programming language developed by Google. It is known for its simplicity, efficiency, and strong support for concurrent programming.
 - **Node.js**: Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It allows you to build scalable and fast network applications, making it a popular choice for backend development.
 
-Note: This list includes some of the major libraries used in the Recofferry App. It may not include all the libraries and dependencies used in the project.
+Note: This list includes some of the major libraries used in the CHeAT App. It may not include all the libraries and dependencies used in the project.
 
