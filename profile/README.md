@@ -40,7 +40,7 @@ Human Healthcare and Living Wellbeings
 
 
 ## Architecture
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The CHeAT application follows a client-server architecture.The client-side, which is implemented on Android, handles registering, logging in, and sending the ingredients entered by the user to the server-side stage of the chatbot.Communication between the client and server occurs through a RESTful API.The server-side manages user requests, communicates with the database, and interacts with the machine learning model (chatbot) to provide recipe recommendations.The client application displays the information received from the server-side to the user.
 
 ## Libraries Used
 ### Android
