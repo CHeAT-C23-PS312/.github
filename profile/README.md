@@ -41,8 +41,10 @@ The CHeAT application follows a client-server architecture. The client-side, whi
 
 ## Libraries Used
 ### Android
-- **Library1**: sksksksksksk
-- **Library2**: hayoapahayo
+- **Retrofit**: Retrofit library is a type-safe REST client for Android, Java, and Kotlin, developed by Square. With the help of the Retrofit library, we can have access to a powerful framework that helps us in authenticating and interacting with APIs and sending network requests with OkHttp.
+- **Glide**: Glide is an Android image loading and caching library. It is designed to simplify the process of loading an image from the server or elsewhere on the internet.
+- **Androidx Navigation**: Navigation is a Jetpack library that enables navigation from one destination in the app to another. The Navigation library also provides certain artifacts to make navigation consistent and idiomatic with Jetpack Compose.
+- **OkHttp3**: The OkHttp library actually provides an implementation of the HttpUrlConnection interface, which Android 4.4 and later versions now use. Therefore, when using the manual approach described in this section of the guide, the underlying HttpUrlConnection class may be leveraging code from the OkHttp library.
 
 
 ### Machine Learning
