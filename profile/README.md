@@ -37,7 +37,7 @@ Human Healthcare and Living Wellbeings
 
 ## Features
 - **Recipe Reccomender**: In this feature, it will display recommendations for the top 5 recipes based on ingredients, with a chat interface.
-
+- **Recipe Detail Reccomender**: In this feature, it will display detail recommendations for the recipes based on ingredients, with this feature,user can see the detail of inggredients,total calorie and how to make it that menu.
 
 ## Architecture
 The CHeAT application follows a client-server architecture.The client-side, which is implemented on Android, handles registering, logging in, and sending the ingredients entered by the user to the server-side stage of the chatbot.Communication between the client and server occurs through a RESTful API.The server-side manages user requests, communicates with the database, and interacts with the machine learning model (chatbot) to provide recipe recommendations.The client application displays the information received from the server-side to the user.
