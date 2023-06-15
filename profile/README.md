@@ -41,8 +41,8 @@ The CHeAT application follows a client-server architecture. The client-side, whi
 
 ## Libraries Used
 ### Android
-- **Library1**: asdfgh
-- **Library2**: asdfgh
+- **Library1**: sksksksksksk
+- **Library2**: hayoapahayo
 
 
 ### Machine Learning
