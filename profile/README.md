@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Bangkit-C23-PS414/.github/main/profile/ic_launcher-playstore.webp" />
+	<img src="https://raw.githubusercontent.com/CHeAT-C23-PS312/.github/main/profile/logo_cheat.webp" />
 	<h3 align="center">CHeAT</h3>
 	<p align="center">
 		CHeAT is an Android application that utilizes artificial intelligence to recommend food recipes by inputting food ingredients available at home, which makes this application easier for users because this application is chat-based.
