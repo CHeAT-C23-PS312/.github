@@ -45,6 +45,8 @@ The CHeAT application follows a client-server architecture. The client-side, whi
 - **Glide**: Glide is an Android image loading and caching library. It is designed to simplify the process of loading an image from the server or elsewhere on the internet.
 - **Androidx Navigation**: Navigation is a Jetpack library that enables navigation from one destination in the app to another. The Navigation library also provides certain artifacts to make navigation consistent and idiomatic with Jetpack Compose.
 - **OkHttp3**: The OkHttp library actually provides an implementation of the HttpUrlConnection interface, which Android 4.4 and later versions now use. Therefore, when using the manual approach described in this section of the guide, the underlying HttpUrlConnection class may be leveraging code from the OkHttp library.
+- **Tbuonomo Dotsindicator**: Dots indicator is an Android library available for Jetpack Compose and XML. At last version its already support with 4 types: ShiftIndicatorType, SpringIndicatorType, WormIndicatorType, BalloonIndicatorType and already support with ViewPager2.
+- **Viewpager2**: is an updated or enhanced version of Viewpager released by Google on 7th Feb 2009. It comes with a variety of new features. The most important feature of viewpager2 that is not present in Viewpager is, the Recyclerview which makes Viewpager2 more efficient than Viewpager.
 
 
 ### Machine Learning
