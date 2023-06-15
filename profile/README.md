@@ -40,8 +40,7 @@ Human Healthcare and Living Wellbeings
 
 
 ## Architecture
-The Coffee Leaf Detection App follows a client-server architecture. The client-side, implemented on Android, handles the user interface, image capturing, and displays the results. The server-side consists of the AI algorithms responsible for leaf detection and analysis.
-The communication between the client and server occurs via RESTful APIs. The client sends leaf images to the server for processing, and the server returns the analysis results. The app utilizes machine learning models trained on a dataset of coffee leaf images to achieve accurate leaf detection and health assessment.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Libraries Used
 ### Android
