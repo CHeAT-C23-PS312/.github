@@ -16,10 +16,8 @@
 	<img src="" width="200" />
 </div>--> 
 
-## Introduction 👋
+## Team Member
 **Team ID: C23-PS312**
-
-Hi everyone! We are from C23-PS312. We consist of 6 people and these are my team members:
 
 |Name|Bangkit ID|Learning Path|LinkedIn
 |--|--|--|--
@@ -30,28 +28,22 @@ Hi everyone! We are from C23-PS312. We consist of 6 people and these are my team
 |Destri Putri Natalia|C322DKY3820|Cloud Computing|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/destri-putri-natalia-50a10a21b/)|
 |Firly Nuraulia Rahmah|C062DSY2956|Cloud Computing|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firlynuraulia/)|
 
-## Theme 🌾
+## Theme
 Human Healthcare and Living Wellbeings
 
 
-
 ## Features
-- **Recipe Reccomender**: In this feature, it will display recommendations for the top 5 recipes based on ingredients, with a chat interface.
-- **Recipe Detail Reccomender**: In this feature, it will display detail recommendations for the recipes based on ingredients, with this feature,user can see the detail of inggredients,total calorie and how to make it that menu.
+- **Recipe Recommender**: In this feature, it will display recommendations for the top 5 recipes based on ingredients, with a chat interface.
+- **Recipe Recommender Detail**: In this feature, it will display each recipe recommendation in detail based on ingredients. With this feature, the user can see the details of ingredients, total calories and instructions of the recipe.
 
 ## Architecture
-The CHeAT application follows a client-server architecture.The client-side, which is implemented on Android, handles registering, logging in, and sending the ingredients entered by the user to the server-side stage of the chatbot.Communication between the client and server occurs through a RESTful API.The server-side manages user requests, communicates with the database, and interacts with the machine learning model (chatbot) to provide recipe recommendations.The client application displays the information received from the server-side to the user.
+The CHeAT application follows a client-server architecture. The client-side, which is implemented on Android, handles registering, logging in, and sending the ingredients entered by the user to the server-side stage of the chatbot.Communication between the client and server occurs through a RESTful API. The server-side manages user requests, communicates with the database, and interacts with the machine learning model (chatbot) to provide recipe recommendations. The client application displays the information received from the server-side to the user.
 
 ## Libraries Used
 ### Android
-- **Jetpack Compose**: Jetpack Compose is a modern UI toolkit for building native Android user interfaces. It provides a declarative approach to UI development, making it easier to build dynamic and interactive user interfaces.
-- **CameraX**: CameraX is an Android Jetpack library that provides a simple and consistent API for accessing camera functionality across different Android devices.
-- **Coil**: Coil is an image loading library for Android that provides easy-to-use APIs for loading and displaying images efficiently.
-- **DataStore**: DataStore is a data storage solution from the Jetpack libraries that offers a modern, reactive, and easy-to-use approach for persisting data in Android applications.
-- **Room**: Room is an Android Jetpack library that provides an abstraction layer over SQLite, making it easier to work with a SQLite database in an Android app.
-- **Retrofit**: Retrofit is a widely-used HTTP client library for Android that simplifies the process of making RESTful API requests to the server.
-- **Paging 3**: Paging 3 is a Jetpack library that helps in loading and displaying large datasets from a data source incrementally, improving app performance and user experience.
-- **Dagger Hilt**: Dagger Hilt is a dependency injection library for Android that simplifies the management of dependencies in an application.
+- **Library1**: asdfgh
+- **Library2**: asdfgh
+
 
 ### Machine Learning
 - **NumPy**: It is a fundamental library for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently.
