@@ -10,7 +10,7 @@
 
 ## Screenshots
 <div>
-	<img src="https://raw.githubusercontent.com/CHeAT-C23-PS312/.github/main/profile/SplashScreen (1).webp" width="200" />
+	<img src="https://raw.githubusercontent.com/CHeAT-C23-PS312/.github/main/profile/SplashScreen (1).webp" width="200" />       
 	<img src="https://raw.githubusercontent.com/CHeAT-C23-PS312/.github/main/profile/ChatbotEmptyScreen.webp" width="200" />
 	<img src="https://raw.githubusercontent.com/CHeAT-C23-PS312/.github/main/profile/ChatbotScreen.webp" width="200" />
 	<img src="https://raw.githubusercontent.com/CHeAT-C23-PS312/.github/main/profile/DetailRecipeScreen.webp" width="200" />
